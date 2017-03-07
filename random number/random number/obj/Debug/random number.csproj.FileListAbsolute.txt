@@ -1,0 +1,9 @@
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\obj\Debug\random number.csprojResolveAssemblyReference.cache
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\obj\Debug\random_number.Form1.resources
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\obj\Debug\random_number.Properties.Resources.resources
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\obj\Debug\random number.csproj.GenerateResource.Cache
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\bin\Debug\random number.exe.config
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\bin\Debug\random number.exe
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\bin\Debug\random number.pdb
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\obj\Debug\random number.exe
+C:\Users\nikos\Documents\Visual Studio 2017\Projects\C#\random number\random number\obj\Debug\random number.pdb
